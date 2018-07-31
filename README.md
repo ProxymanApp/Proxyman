@@ -50,6 +50,10 @@ An Advanced Web Debugging Proxy 👨‍💻 | https://proxyman.app
 
 > Visit our landing page (https://proxyman.app) and subscribe to get new builds every week 👨‍💻
 
+* **Do we have Twitter?**
+
+> Dont' forget to follow us on [Twitter](https://twitter.com/proxyman_app) to get latest update 😍
+
 * **How can I contact you?**
 
 > 💌 nghia@proxyman.app
