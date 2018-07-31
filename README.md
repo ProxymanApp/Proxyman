@@ -11,6 +11,9 @@ An Advanced Web Debugging Proxy 👨‍💻 | https://proxyman.app
 * 🚢 100% free.
 * ✅ New feature, new improvement app every weeks.
 
+## Download
+* [0.3.2 Pre-alpha](https://www.dropbox.com/s/zf2yit5ehwsikr7/Proxyman_0.3.2.dmg?dl=0)
+
 ## FAQ
 * **What is the current progress of Proxyman?**
 
