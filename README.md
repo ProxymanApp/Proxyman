@@ -39,7 +39,7 @@ An Advanced Web Debugging Proxy 👨‍💻 | https://proxyman.app
 > We appreciate your effort to report the bug if you find.
 > Just open the Issue ticket on this repository. We will answer asap.
 
-* **Can I request new feautres?**
+* **Can I request new features?**
 
 > Definitely, we're always welcome your new idea in order to make Proxyman greater ❤️
 
@@ -47,3 +47,7 @@ An Advanced Web Debugging Proxy 👨‍💻 | https://proxyman.app
 * **Where can I download the app?**
 
 > Visit our landing page (https://proxyman.app) and subscribe to get new builds every week 👨‍💻
+
+* **How can I contact you?**
+
+> 💌 nghia@proxyman.app
