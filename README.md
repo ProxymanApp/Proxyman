@@ -29,9 +29,9 @@ An Advanced Web Debugging Proxy 👨‍💻 | https://proxyman.app
 * **Is it native macOS app?**
 
 > Yes, Proxyman is completely built from Native Cocoa Framework rather than using Electron or Java app.
-
+>
 > We leverage the power and capability to access low-level functions of macOS system in order to determine and categorize those requests to specific Client.
-
+>
 > The performance is the key we would like to benefit the savvy devs like you 😍
 
 * **How do I report the bug?**
@@ -42,7 +42,6 @@ An Advanced Web Debugging Proxy 👨‍💻 | https://proxyman.app
 * **Can I request new features?**
 
 > Definitely, we're always welcome your new idea in order to make Proxyman greater ❤️
-
 
 * **Where can I download the app?**
 
