@@ -1,5 +1,5 @@
 # Proxyman
-An Advanced Web Debugging Proxy 👨‍💻 | https://proxyman.app
+An Advanced Web Debugging Proxy 👨‍💻 - 🌎 https://proxyman.app
 
 <img src="https://github.com/ProxymanApp/Proxyman/blob/master/screenshots/screenshot.png" alt="Proxyman screenshot" width="100%" height="auto"/>
 
@@ -12,7 +12,7 @@ An Advanced Web Debugging Proxy 👨‍💻 | https://proxyman.app
 * ✅ New feature, new improvement app every weeks.
 
 ## Download
-* [0.3.2 Pre-alpha](https://www.dropbox.com/s/zf2yit5ehwsikr7/Proxyman_0.3.2.dmg?dl=0)
+* [0.4.1 pre-alpha](https://www.dropbox.com/s/okthfhybxfi7yny/Proxyman_0.4.1.dmg?dl=0)
 
 ## FAQ
 * **What is the current progress of Proxyman?**
@@ -27,7 +27,7 @@ An Advanced Web Debugging Proxy 👨‍💻 | https://proxyman.app
 
 > Proxyman is the Advance Web Debugging Proxy Application. Imagine, we're modern, simplicity and efficient version of Charles app (https://www.charlesproxy.com).
 >
-> We've struggled and understood the problem while working with Charles from our working-day routine. Thus, we build the modern ship by yourself 🚢.
+> We've struggled and understood the problem while working with Charles from our working-day routine. Thus, we build the modern ship by ourself 🚢.
 
 * **Is it native macOS app?**
 
