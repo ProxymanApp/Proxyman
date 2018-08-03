@@ -1,7 +1,7 @@
 # Proxyman
 An Advanced Web Debugging Proxy 👨‍💻 - 🌎 https://proxyman.app
 
-<img src="https://github.com/ProxymanApp/Proxyman/blob/master/screenshots/screenshot.png" alt="Proxyman screenshot" width="100%" height="auto"/>
+<img src="https://github.com/ProxymanApp/Proxyman/blob/master/screenshots/screenshot_0.4.1.png" alt="Proxyman screenshot" width="100%" height="auto"/>
 
 ## Features
 * 😍 Sniff and intercept HTTP/HTTPS (SSL) requests from your macbook, simulator and remote devices.
