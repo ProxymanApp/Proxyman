@@ -12,7 +12,7 @@ An Advanced Web Debugging Proxy 👨‍💻 - 🌎 https://proxyman.app
 * ✅ New feature, new improvement app every weeks.
 
 ## Download
-* [0.4.1 pre-alpha](https://www.dropbox.com/s/okthfhybxfi7yny/Proxyman_0.4.1.dmg?dl=0)
+* [0.5 pre-alpha](https://www.dropbox.com/s/mvi607pqdz1kaz9/Proxyman_0.5.dmg?dl=0)
 
 ## FAQ
 * **What is the current progress of Proxyman?**
