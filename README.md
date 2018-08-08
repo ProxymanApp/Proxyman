@@ -1,5 +1,5 @@
 # Proxyman
-An Advanced Web Debugging Proxy 👨‍💻 - 🌎 https://proxyman.app
+An Advanced Web Debugging Proxy 👨‍💻 (Think like Charles 2.0) • 🌎 https://proxyman.app
 
 <img src="https://github.com/ProxymanApp/Proxyman/blob/master/screenshots/screenshot_0.4.1.png" alt="Proxyman screenshot" width="100%" height="auto"/>
 
