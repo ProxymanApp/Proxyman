@@ -13,6 +13,9 @@ An Advanced Web Debugging Proxy 👨‍💻 (Think like Charles 2.0) • 🌎 ht
 
 ## Download
 * [0.5 pre-alpha](https://www.dropbox.com/s/mvi607pqdz1kaz9/Proxyman_0.5.dmg?dl=0)
+```
+$ brew cask install proxyman
+```
 
 ## FAQ
 * **What is the current progress of Proxyman?**
