@@ -12,7 +12,7 @@ An Advanced Web Debugging Proxy 👨‍💻 (Think like Charles 2.0) • 🌎 ht
 * ✅ New feature, new improvement app every weeks.
 
 ## Download
-* [0.8 Pre-alpha](https://www.dropbox.com/s/9nbieo877uyen9k/Proxyman_0.8.dmg?dl=0)
+* [0.8.1 Pre-alpha](https://www.dropbox.com/s/9nbieo877uyen9k/Proxyman_0.8.dmg?dl=0)
 * [Build History](https://github.com/ProxymanApp/Proxyman/releases)
 
 ```
