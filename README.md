@@ -3,6 +3,8 @@ An Advanced Web Debugging Proxy 👨‍💻 (Think like Charles 2.0) • 🌎 ht
 
 <img src="https://github.com/ProxymanApp/Proxyman/blob/master/screenshots/screenshot_0.4.1.png" alt="Proxyman screenshot" width="100%" height="auto"/>
 
+<img src="https://github.com/ProxymanApp/Proxyman/blob/master/screenshots/proxyman_darktheme.png" alt="Proxyman Darktheme screenshot" width="100%" height="auto"/>
+
 ## Features
 * 😍 Sniff and intercept HTTP/HTTPS (SSL) requests from your macbook, simulator and remote devices.
 * ⭐️ High-performance native macOS app.
@@ -12,7 +14,7 @@ An Advanced Web Debugging Proxy 👨‍💻 (Think like Charles 2.0) • 🌎 ht
 * ✅ New feature, new improvement app every weeks.
 
 ## Download
-* [0.8.1 Pre-alpha](https://www.dropbox.com/s/9nbieo877uyen9k/Proxyman_0.8.dmg?dl=0)
+* [0.8.1 Pre-alpha](https://github.com/ProxymanApp/Proxyman/releases/download/0.8.1/Proxyman_0.8.1.dmg)
 * [Build History](https://github.com/ProxymanApp/Proxyman/releases)
 
 ```
