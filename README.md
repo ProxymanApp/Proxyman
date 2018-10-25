@@ -15,7 +15,7 @@ An Advanced Web Debugging Proxy 👨‍💻 (Think like Charles 2.0) • 🌎 ht
 
 ## Download
 * [0.8.1 Pre-Alpha](https://github.com/ProxymanApp/Proxyman/releases/download/0.8.1/Proxyman_0.8.1.dmg)
-* [1.0 BETA Nighty-build](https://github.com/ProxymanApp/Proxyman/releases/tag/1.0)
+* [1.0 BETA Nightly-build](https://github.com/ProxymanApp/Proxyman/releases/tag/1.0)
 * [Build History](https://github.com/ProxymanApp/Proxyman/releases)
 
 ```
