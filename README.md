@@ -1,5 +1,5 @@
 # Proxyman
-An Advanced Web Debugging Proxy 👨‍💻 (Think like Charles 2.0) • 🌎 https://proxyman.app
+An Advanced Web Debugging Proxy 👨‍💻 • 🌎 https://proxyman.app
 
 <img src="https://github.com/ProxymanApp/Proxyman/blob/master/screenshots/screenshot_0.4.1.png" alt="Proxyman screenshot" width="100%" height="auto"/>
 
@@ -33,9 +33,9 @@ $ brew cask install proxyman
 
 * **What is Proxyman?**
 
-> Proxyman is the Advance Web Debugging Proxy Application. Imagine, we're modern, simplicity and efficient version of Charles app (https://www.charlesproxy.com).
+> Proxyman is the Advance Web Debugging Proxy Application.
 >
-> We've struggled and understood the problem while working with Charles from our working-day routine. Thus, we build the modern ship by ourself 🚢.
+> We've struggled and understood the problem while working with other tool from our working-day routine. Thus, we build the modern ship by ourself 🚢.
 
 * **Is it native macOS app?**
 
