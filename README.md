@@ -14,7 +14,7 @@ An Advanced Web Debugging Proxy 👨‍💻 • 🌎 https://proxyman.app
 * ✅ New feature, new improvement app every weeks.
 
 ## Download
-* [1.0.3 BETA](https://github.com/ProxymanApp/Proxyman/releases/download/1.0.3/Proxyman_1.0.3.dmg)
+* [1.1 BETA](https://github.com/ProxymanApp/Proxyman/releases/download/1.1/Proxyman_1.1.dmg)
 * [Build History](https://github.com/ProxymanApp/Proxyman/releases)
 
 ```
