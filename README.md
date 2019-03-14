@@ -1,16 +1,17 @@
-# Proxyman
-An Advanced Web Debugging Proxy 👨‍💻 • 🌎 https://proxyman.app
 
-<img src="https://github.com/ProxymanApp/Proxyman/blob/master/screenshots/screenshot_0.4.1.png" alt="Proxyman screenshot" width="100%" height="auto"/>
+<img src="https://raw.githubusercontent.com/ProxymanApp/Proxyman/master/screenshots/icon-left-font.png" alt="Proxyman screenshot" width="50%" height="auto"/>
 
-<img src="https://github.com/ProxymanApp/Proxyman/blob/master/screenshots/proxyman_darktheme.png" alt="Proxyman Darktheme screenshot" width="100%" height="auto"/>
+#### A modern and intuitive HTTP Debugging Proxy app 👨‍💻 • 🌎 https://proxyman.app
+
+<img src="https://raw.githubusercontent.com/ProxymanApp/Proxyman/master/screenshots/proxyman_1.3.2_darkmode.png" alt="Proxyman screenshot" width="100%" height="auto"/>
 
 ## Features
-* 😍 Sniff and intercept HTTP/HTTPS (SSL) requests from your macbook, simulator and remote devices.
+
+* 😍 Intercept HTTP/HTTPS (SSL) requests from your macbook, simulator and remote devices 📱.
 * 🦋 Modern and intuitive UI.
-* ⭐️ High-performance native macOS app.
-* 👑 Handy web debugging proxy tools, such as Compose, Repeat, ...
-* 👨‍💻 Customizable Working-Space Catalogs.
+* ⭐️ Exclusively built for macOS.
+* 👑 Comprehensive debugging tools: Compose, Repeat, ...
+* 👨‍💻 Customizable workspace.
 * ✅ New feature, new improvement app every weeks.
 * 🚢 100% free.
 
@@ -25,7 +26,7 @@ $ brew cask install proxyman
 ## FAQ
 * **What is the current progress of Proxyman?**
 
-> Proxyman is a **BETA** version, which provides many useful capabilities to proxy and intercepts the HTTP/HTTPS requests.
+> Proxyman is a **BETA** version.
 >
 > My team is dedicatedly working to bring new handy features as soon as possible.
 >
@@ -33,17 +34,34 @@ $ brew cask install proxyman
 
 * **What is Proxyman?**
 
-> Proxyman is the Advanced Web Debugging Proxy Application.
+> Proxyman is the HTTP Debugging Proxy app, which is capable of proxying and intercepts the HTTP/HTTPS requests.
+> 
+> Proxyman is a handy tool to help you debug your HTTPS request from apps, domain, remove devices and iOS simulator.
 >
-> We've struggled and understood the problem while working with another tool from our working-day routine. Therefore, we're excited to craft the modern Proxyman app. 🚢.
+> You can also review the JSON response and compose your request with new parameters. 
+>
+> It definitely boosts your productivity significantly ⚡️.
+
+
+* **What is your motivation?**
+
+> We've struggled and understood the problem during working with another tool from our working-day routine. 
+>
+> Although there are a flood of proxying Google Chrome extension, but it's an unreliable and bad performance.
+>
+> Hence, We sacrifice our spare time to build Proxyman 🚢 with a duty to overcome same problem.
 
 * **Is it native macOS app?**
 
-> Yes, Proxyman is completely built from Native Cocoa Framework rather than using Electron or Java app.
+> Yes, Proxyman is exclusively built from Native Cocoa Framework rather than using Electron or Java app.
 >
-> We leverage the power and capability to access low-level functions of macOS system in order to determine and categorize those requests to specific Client. It's also capable of intercepting the HTTP/HTTPS request.
+> We leverage the power and capability to access low-level functions of macOS system in order to determine and categorize those requests to specific Client.
+>
+> We care about your experience, RAM useage, and battery life.
 >
 > The **performance** and **intuitive UI** are the vital keys we would like to benefit the savvy devs like you 😍
+>
+> Technology stack is C++, Swift, Obj-C and low-level system library.
 
 * **How is the current progress?**
 
