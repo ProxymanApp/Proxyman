@@ -57,7 +57,7 @@ $ brew cask install proxyman
 >
 > We leverage the power and capability to access low-level functions of macOS system in order to determine and categorize those requests to specific Client.
 >
-> We care about your experience, RAM useage, and battery life.
+> We care about your experience, RAM usage, and battery life.
 >
 > The **performance** and **intuitive UI** are the vital keys we would like to benefit the savvy devs like you 😍
 >
