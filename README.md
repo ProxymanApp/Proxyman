@@ -36,7 +36,7 @@ $ brew cask install proxyman
 
 > Proxyman is the HTTP Debugging Proxy app, which is capable of proxying and intercepts the HTTP/HTTPS requests.
 > 
-> Proxyman is a handy tool to help you debug your HTTPS request from apps, domain, remove devices and iOS simulator.
+> Proxyman is a handy tool to help you debug your HTTPS request from apps, domain, remote devices and iOS simulator.
 >
 > You can also review the JSON response and compose your request with new parameters. 
 >
@@ -45,11 +45,11 @@ $ brew cask install proxyman
 
 * **What is your motivation?**
 
-> We've struggled and understood the problem during working with another tool from our working-day routine. 
+>  W've struggled and understood the problem during working with another tool from our working-day routine. 
 >
-> Although there are a flood of proxying Google Chrome extension, but it's an unreliable and bad performance.
+> Although there are a flood of proxying Google Chrome extension, but it's unreliable and bad performance.
 >
-> Hence, We sacrifice our spare time to build Proxyman 🚢 with a duty to overcome same problem.
+> Hence, We sacrifice our spare time to build Proxyman 🚢 with a duty to overcome those problems.
 
 * **Is it native macOS app?**
 
@@ -83,7 +83,7 @@ $ brew cask install proxyman
 
 * **Do we have Twitter?**
 
-> Dont' forget to follow us on [Twitter](https://twitter.com/proxyman_app) to get latest update 😍
+> Dont' forget to follow me on [Twitter](https://twitter.com/_nghiatran) to get latest update 😍
 
 * **How can I contact you?**
 
