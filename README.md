@@ -23,6 +23,12 @@
 $ brew cask install proxyman
 ```
 
+## Have a problem?
+
+Feels free to ask me any question via gitter 💻.
+
+[![Gitter](https://badges.gitter.im/Proxyman-app/community.svg)](https://gitter.im/Proxyman-app/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+
 ## FAQ
 * **What is the current progress of Proxyman?**
 
