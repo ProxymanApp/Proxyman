@@ -53,7 +53,7 @@ Feels free to ask me any question via gitter 💻.
 
 * **What is your motivation?**
 
->  W've struggled and understood the problem during working with another tool from our working-day routine. 
+> We've struggled and understood the problem during working with another tool from our working-day routine. 
 >
 > Although there are a flood of proxying Google Chrome extension, but it's unreliable and bad performance.
 >
