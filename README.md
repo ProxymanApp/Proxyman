@@ -18,7 +18,7 @@
 * 🚢 100% free.
 
 ## Download
-* [1.3.6 BETA](https://github.com/ProxymanApp/Proxyman/releases/download/1.3.6/Proxyman_1.3.6.dmg)
+* [1.3.7](https://github.com/ProxymanApp/Proxyman/releases/download/1.3.7/Proxyman_1.3.7.dmg)
 * [Build History](https://github.com/ProxymanApp/Proxyman/releases)
 
 ```
@@ -32,13 +32,6 @@ Feels free to ask me any question via gitter 💻.
 [![Gitter](https://badges.gitter.im/Proxyman-app/community.svg)](https://gitter.im/Proxyman-app/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 ## FAQ
-* **What is the current progress of Proxyman?**
-
-> Proxyman is a **BETA** version.
->
-> My team is dedicatedly working to bring new handy features as soon as possible.
->
-> We're aiming to release new features every week until we achieve the **stable** stages. Don't forget to subscribe to get the update 👨‍💻
 
 * **What is Proxyman?**
 
@@ -49,7 +42,6 @@ Feels free to ask me any question via gitter 💻.
 > You can also review the JSON response and compose your request with new parameters. 
 >
 > It definitely boosts your productivity significantly ⚡️.
-
 
 * **What is your motivation?**
 
