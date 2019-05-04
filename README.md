@@ -1,7 +1,7 @@
 
 <img src="https://raw.githubusercontent.com/ProxymanApp/Proxyman/master/screenshots/icon-left-font.png" alt="Proxyman screenshot" width="50%" height="auto"/>
 
-#### A modern and intuitive HTTP Debugging Proxy app 👨‍💻 • 🌎 https://proxyman.app
+#### A modern and intuitive HTTP Debugging Proxy app 👨‍💻 • 🌎 https://proxyman.io
 
 [![Join the chat at https://gitter.im/Proxyman-app/community](https://badges.gitter.im/Proxyman-app/community.svg)](https://gitter.im/Proxyman-app/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
@@ -79,7 +79,7 @@ Feels free to ask me any question via gitter 💻.
 
 * **Where can I download the app?**
 
-> Visit our landing page (https://proxyman.app) and subscribe to get new builds every week 👨‍💻
+> Visit our landing page (https://proxyman.io) and subscribe to get new builds every week 👨‍💻
 
 * **Do we have Twitter?**
 
