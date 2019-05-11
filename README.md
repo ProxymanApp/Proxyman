@@ -18,7 +18,7 @@
 * 🚢 100% free.
 
 ## Download
-* [1.3.7](https://github.com/ProxymanApp/Proxyman/releases/download/1.3.7/Proxyman_1.3.7.dmg)
+* [1.3.8](https://github.com/ProxymanApp/Proxyman/releases/download/1.3.8/Proxyman_1.3.8.dmg)
 * [Build History](https://github.com/ProxymanApp/Proxyman/releases)
 
 ```
@@ -87,4 +87,4 @@ Feels free to ask me any question via gitter 💻.
 
 * **How can I contact you?**
 
-> 💌 nghia@proxyman.app
+> 💌 nghia@proxyman.io
