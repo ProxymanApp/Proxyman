@@ -18,7 +18,7 @@
 * 🚢 100% free.
 
 ## Download
-* [Proxyman 1.4.2](https://github.com/ProxymanApp/Proxyman/releases/download/1.4.2/Proxyman_1.4.2.dmg)
+* [Proxyman 1.4.3](https://github.com/ProxymanApp/Proxyman/releases/download/1.4.3/Proxyman_1.4.3.dmg)
 * [Build History](https://github.com/ProxymanApp/Proxyman/releases)
 
 ```
