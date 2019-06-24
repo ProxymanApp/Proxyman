@@ -16,6 +16,7 @@
 * 👨‍💻 Customizable workspace.
 * ✅ New feature, new improvement app every weeks.
 * 🚢 100% free.
+* 🖥 macOS 10.11+
 
 ## Download
 * [Proxyman 1.4.3](https://github.com/ProxymanApp/Proxyman/releases/download/1.4.3/Proxyman_1.4.3.dmg)
