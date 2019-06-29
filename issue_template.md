@@ -1,7 +1,9 @@
-### Which Proxyman version are you using? (Ex. Proxyman 0.5 (200))
+### Proxyman version? (Ex. Proxyman 1.4.3)
 
-### What OS Version are you using? (Ex. mac 10.13)
+### macOS Version? (Ex. mac 10.14)
 
-### Steps to reproduce this issue
+### Steps to reproduce 
+
+### Expected behavior
 
 ### Screenshots (optional)
