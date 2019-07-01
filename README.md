@@ -84,7 +84,7 @@ Feels free to ask me any question via gitter 💻.
 
 * **Do we have Twitter?**
 
-> Dont' forget to follow me on [Twitter](https://twitter.com/_nghiatran) to get latest update 😍
+> Don't forget to follow me on [Twitter](https://twitter.com/_nghiatran) to get latest update 😍
 
 * **How can I contact you?**
 
