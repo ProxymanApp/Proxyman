@@ -19,7 +19,7 @@
 * 🖥 macOS 10.11+
 
 ## Download
-* [Proxyman 1.4.5.1](https://github.com/ProxymanApp/Proxyman/releases/download/1.4.5.1/Proxyman_1.4.5.1.dmg)
+* [Proxyman 1.4.6](https://github.com/ProxymanApp/Proxyman/releases/download/1.4.6/Proxyman_1.4.6.dmg)
 * [Build History](https://github.com/ProxymanApp/Proxyman/releases)
 
 ```
