@@ -13,13 +13,14 @@
 * 🦋 Modern and intuitive UI.
 * ⭐️ Exclusively built for macOS.
 * 👑 Comprehensive debugging tools: Compose, Repeat, ...
+* 🛠 Advanced Tools: Map Local, External Proxying, No Caching, and Clear Cache.
 * 👨‍💻 Customizable workspace.
 * ✅ New feature, new improvement app every weeks.
 * 🚢 100% free all essential features.
 * 🖥 macOS 10.11+
 
 ## Download
-* [Proxyman 1.4.6](https://github.com/ProxymanApp/Proxyman/releases/download/1.4.6/Proxyman_1.4.6.dmg)
+* [Proxyman 1.4.7](https://github.com/ProxymanApp/Proxyman/releases/download/1.4.7/Proxyman_1.4.7.dmg)
 * [Build History](https://github.com/ProxymanApp/Proxyman/releases)
 
 ```
