@@ -10,6 +10,7 @@
 ## Features
 
 * 😍 Intercept HTTP/HTTPS (SSL) requests from your macbook, simulator and remote devices 📱.
+* 🕸 Websocket debugger.
 * 🦋 Modern and intuitive UI.
 * ⭐️ Exclusively built for macOS.
 * 👑 Comprehensive debugging tools: Compose, Repeat, ...
@@ -20,7 +21,7 @@
 * 🖥 macOS 10.11+
 
 ## Download
-* [Proxyman 1.6.2](https://github.com/ProxymanApp/Proxyman/releases/download/1.6.2/Proxyman_1.6.2.dmg)
+* [Proxyman 1.7.0](https://github.com/ProxymanApp/Proxyman/releases/download/1.7.0/Proxyman_1.7.0.dmg)
 * [Build History](https://github.com/ProxymanApp/Proxyman/releases)
 
 ```
