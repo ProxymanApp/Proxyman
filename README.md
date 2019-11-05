@@ -1,24 +1,25 @@
 
-<img src="https://raw.githubusercontent.com/ProxymanApp/Proxyman/master/screenshots/icon-left-font.png" alt="Proxyman screenshot" width="50%" height="auto"/>
+<img src="https://raw.githubusercontent.com/ProxymanApp/Proxyman/master/screenshots/proxyman_logo.png" alt="Proxyman screenshot" width="50%" height="auto"/>
 
-#### A modern and intuitive HTTP Debugging Proxy app 👨‍💻 • 🌎 https://proxyman.io
+#### Modern and Delightful HTTP Debugging Proxy 👨‍💻 • 🌎 https://proxyman.io
 
 [![Join the chat at https://gitter.im/Proxyman-app/community](https://badges.gitter.im/Proxyman-app/community.svg)](https://gitter.im/Proxyman-app/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-<img src="https://raw.githubusercontent.com/ProxymanApp/Proxyman/master/screenshots/proxyman_1.3.2_darkmode.png" alt="Proxyman screenshot" width="100%" height="auto"/>
+<img src="https://raw.githubusercontent.com/ProxymanApp/Proxyman/master/screenshots/proxyman_dashboard_1.8.0.png" alt="Proxyman screenshot" width="100%" height="auto"/>
 
 ## Features
 
-* 😍 Intercept HTTP/HTTPS (SSL) requests from your macbook, simulator and remote devices 📱.
-* 🕸 Websocket debugger.
-* 🦋 Modern and intuitive UI.
-* ⭐️ Exclusively built for macOS.
-* 👑 Comprehensive debugging tools: Compose, Repeat, ...
-* 🛠 Advanced Tools: Map Local, External Proxying, No Caching, and Clear Cache.
-* 👨‍💻 Customizable workspace.
-* ✅ New feature, new improvement app every weeks.
-* 🚢 100% free all essential features.
-* 🖥 macOS 10.11+
+* ✅ Intercept HTTP/HTTPS (SSL) requests.
+* Support iOS simulator and iOS and Android device.
+* Websocket debugging.
+* Modern and intuitive UI.
+* Exclusively built for macOS.
+* Basic debugging tools: Compose, Repeat, filter,...
+* Advanced Tools: Map Local, External Proxying, No Caching, and Clear Cache.
+* Customizable workspace.
+* New feature, new improvement build every two weeks.
+* 100% free all essential features.
+* macOS 10.11+
 
 ## Download
 * [Proxyman 1.8.0](https://proxyman.io/release/osx/Proxyman_latest.dmg)
