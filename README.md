@@ -22,7 +22,7 @@
 * macOS 10.11+
 
 ## Download
-* [Proxyman 1.18.8](https://proxyman.io/release/osx/Proxyman_latest.dmg)
+* [Proxyman 1.18.1](https://proxyman.io/release/osx/Proxyman_latest.dmg)
 * [Build History](https://github.com/ProxymanApp/Proxyman/releases)
 
 ```
