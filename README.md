@@ -15,14 +15,14 @@
 * Modern and intuitive UI.
 * Exclusively built for macOS.
 * Basic debugging tools: Compose, Repeat, filter,...
-* Advanced Tools: Map Local, Map Remote, Breakpoint, Backlist, External Proxying, No Caching, and Clear Cache.
+* Advanced Tools: Map Local, Map Remote, Breakpoint, Backlist, External Proxying, No Caching, Protobuf and Clear Cache.
 * Customizable workspace.
 * New feature, new improvement build every two weeks.
 * 100% free all essential features.
 * macOS 10.11+
 
 ## Download
-* [Proxyman 1.21.0](https://proxyman.io/release/osx/Proxyman_latest.dmg)
+* [Proxyman 1.22.0](https://proxyman.io/release/osx/Proxyman_latest.dmg)
 * [Build History](https://github.com/ProxymanApp/Proxyman/releases)
 
 ```
