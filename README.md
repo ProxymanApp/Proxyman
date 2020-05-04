@@ -25,7 +25,7 @@
 - 🔎 [CodeMirror-Swift](https://github.com/ProxymanApp/CodeMirror-Swift): A lightweight wrapper of CodeMirror for macOS and iOS.
 
 ## Download
-* [Proxyman 1.22.0](https://proxyman.io/release/osx/Proxyman_latest.dmg)
+* [Proxyman 1.23.0](https://proxyman.io/release/osx/Proxyman_latest.dmg)
 * [Build History](https://github.com/ProxymanApp/Proxyman/releases)
 
 ```
