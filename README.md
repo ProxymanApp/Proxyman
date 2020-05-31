@@ -19,13 +19,13 @@
 * Customizable workspace.
 * New feature, new improvement build every two weeks.
 * 100% free all essential features.
-* macOS 10.11+
+* macOS 10.12+
 
 ## OSS Components
 - 🔎 [CodeMirror-Swift](https://github.com/ProxymanApp/CodeMirror-Swift): A lightweight wrapper of CodeMirror for macOS and iOS.
 
 ## Download
-* [Proxyman 1.23.0](https://proxyman.io/release/osx/Proxyman_latest.dmg)
+* [Proxyman 1.24.0](https://proxyman.io/release/osx/Proxyman_latest.dmg)
 * [Build History](https://github.com/ProxymanApp/Proxyman/releases)
 
 ```
