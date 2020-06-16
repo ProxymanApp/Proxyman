@@ -9,6 +9,7 @@
 
 ## Features
 
+* ✅ 100% written by Apple Swfit NIO for high-performance
 * ✅ Intercept HTTP/HTTPS (SSL) requests.
 * Support iOS simulator and iOS and Android devices.
 * Websocket debugging.
@@ -25,7 +26,7 @@
 - 🔎 [CodeMirror-Swift](https://github.com/ProxymanApp/CodeMirror-Swift): A lightweight wrapper of CodeMirror for macOS and iOS.
 
 ## Download
-* [Proxyman 1.24.0](https://proxyman.io/release/osx/Proxyman_latest.dmg)
+* [Proxyman 2.0.0](https://proxyman.io/release/osx/Proxyman_latest.dmg)
 * [Build History](https://github.com/ProxymanApp/Proxyman/releases)
 
 ```
