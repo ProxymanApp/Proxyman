@@ -41,6 +41,8 @@ $ brew cask install proxyman
 
 -----------------------
 
-Proxyman is free and has no limit on trial time. We're genuinely happy if you purchase a license to support the development ❤️
+Proxyman is developed by a small engineer team, but we're dedicated to shipping Proxyman that tailors for each platform (macOS, iOS, and Windows). It facilitates how we debug apps and bring joyfulness and pleasure to all developers.
+
+We're genuinely happy if you purchase a license to support the development ❤️
 
 Proxyman team.
