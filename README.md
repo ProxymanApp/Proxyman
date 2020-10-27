@@ -3,6 +3,7 @@
 
 #### Modern and Delightful HTTP Debugging Proxy for macOS, iOS and Android ⚡️ • 🌎 https://proxyman.io
 
+[![Twitter](https://img.shields.io/twitter/url?label=%40proxyman_app&style=social&url=https%3A%2F%2Ftwitter.com%2Fproxyman_app)](https://twitter.com/proxyman_app)
 [![Join the chat at https://gitter.im/Proxyman-app/community](https://badges.gitter.im/Proxyman-app/community.svg)](https://gitter.im/Proxyman-app/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 <img src="https://raw.githubusercontent.com/ProxymanApp/Proxyman/master/screenshots/proxyman_dashboard.png" alt="Proxyman Dashboard" width="100%" height="auto"/>
