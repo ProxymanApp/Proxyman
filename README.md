@@ -23,7 +23,7 @@
 * 100% free all essential features.
 * macOS 10.12+
 
-## Meet Atlantis - Inspect Network traffic with ease from your iOS app
+### Say Hi to Atlantis - Inspect Network traffic with ease from your iOS app
 <img src="https://raw.githubusercontent.com/ProxymanApp/atlantis/main/images/cover.png" alt="Atlantis: Debug iOS with ease" width="70%" height="auto"/>
 
 - ✅ **Automatically** intercept all HTTP/HTTPS Traffic with ease
@@ -35,7 +35,7 @@
 - 🔎 [CodeMirror-Swift](https://github.com/ProxymanApp/CodeMirror-Swift): A lightweight wrapper of CodeMirror for macOS and iOS.
 
 ## Download
-* [Proxyman 2.11.0](https://proxyman.io/release/osx/Proxyman_latest.dmg)
+* [Proxyman 2.11.1](https://proxyman.io/release/osx/Proxyman_latest.dmg)
 * [Build History](https://github.com/ProxymanApp/Proxyman/releases)
 
 ```
