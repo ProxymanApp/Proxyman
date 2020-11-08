@@ -10,17 +10,17 @@
 
 ## Features
 
-* ✅ 100% written by Apple Swfit NIO for high-performance
-* ✅ Intercept HTTP/HTTPS (SSL) requests.
-* ✅ Modern and intuitive UI.
-* ✅ Exclusively built for macOS.
-* Support iOS simulator and iOS and Android devices.
-* Websocket debugging.
+* ✅ 100% written by Apple SwiftNIO for high-performance
+* ✅ Intercept HTTP/HTTPS (SSL) requests
+* ✅ Modern and intuitive UI
+* ✅ Exclusively built for macOS
+* Support iOS simulator and iOS and Android devices
+* WebSocket debugging
 * Basic debugging tools: Compose, Repeat, Wildcard/Regex Filter,...
 * Advanced Tools: Map Local, Map Remote, Breakpoint, Backlist, External Proxying, No Caching, Protobuf, Clear Cache, Custom Certificates, Scripting...
-* Customizable workspace.
-* New feature, new improvement build every two weeks.
-* 100% free all essential features.
+* Customizable workspace
+* New feature, new improvement build every two weeks
+* 100% free all essential features
 * macOS 10.12+
 
 ### Say Hi to Atlantis - Inspect Network traffic with ease from your iOS app
@@ -29,7 +29,7 @@
 - ✅ **Automatically** intercept all HTTP/HTTPS Traffic with ease
 - ✅ **No need to config HTTP Proxy, Install or Trust any Certificate**
 - Support iOS Physical Devices and Simulators
-- Github: https://github.com/ProxymanApp/atlantis
+- GitHub: https://github.com/ProxymanApp/atlantis
 
 ## OSS Components
 - 🔎 [CodeMirror-Swift](https://github.com/ProxymanApp/CodeMirror-Swift): A lightweight wrapper of CodeMirror for macOS and iOS.
@@ -45,10 +45,10 @@ $ brew cask install proxyman
 ## Have a problem?
 
 - Open Github ticket
-- Technical issues on[![Gitter](https://badges.gitter.im/Proxyman-app/community.svg)](https://gitter.im/Proxyman-app/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+- Technical issues on [![Gitter](https://badges.gitter.im/Proxyman-app/community.svg)](https://gitter.im/Proxyman-app/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 - nghia@proxyman.io & support@proxyman.io
 
------------------------
+---
 
 Proxyman is developed by a small engineer team, but we're dedicated to shipping Proxyman that tailors for each platform (macOS, iOS, and Windows). It facilitates how we debug apps and bring joyfulness and pleasure to all developers.
 
