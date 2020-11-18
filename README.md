@@ -11,6 +11,7 @@
 ## Features
 
 * ✅ 100% written by Apple SwiftNIO for high-performance
+* ✅ Fully support Apple Silicon Chip and Big Sur
 * ✅ Intercept HTTP/HTTPS (SSL) requests
 * ✅ Modern and intuitive UI
 * ✅ Exclusively built for macOS
@@ -35,7 +36,7 @@
 - 🔎 [CodeMirror-Swift](https://github.com/ProxymanApp/CodeMirror-Swift): A lightweight wrapper of CodeMirror for macOS and iOS.
 
 ## Download
-* [Proxyman 2.12.0](https://proxyman.io/release/osx/Proxyman_latest.dmg)
+* [Proxyman 2.13.0](https://proxyman.io/release/osx/Proxyman_latest.dmg)
 * [Build History](https://github.com/ProxymanApp/Proxyman/releases)
 
 ```
