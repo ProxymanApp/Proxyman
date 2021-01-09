@@ -40,7 +40,7 @@
 * [Build History](https://github.com/ProxymanApp/Proxyman/releases)
 
 ```
-$ brew cask install proxyman
+$ brew install --cask proxyman
 ```
 
 ## Have a problem?
