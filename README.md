@@ -18,15 +18,17 @@
 * Support iOS simulator and iOS and Android devices
 * WebSocket debugging
 * Basic debugging tools: Compose, Repeat, Wildcard/Regex Filter,...
-* Advanced Tools: Map Local, Map Remote, Breakpoint, Backlist, External Proxying, No Caching, Protobuf, Clear Cache, Custom Certificates, Scripting...
+* Advanced Tools: Map Local, Map Remote, Breakpoint, Backlist, External Proxying, No Caching, Protobuf, Clear Cache, Custom Certificates, Scripting, Network Conditions...
 * Customizable workspace
 * New feature, new improvement build every two weeks
 * 100% free all essential features
 * macOS 10.12+
 
-### Say Hi to Atlantis - Inspect Network traffic with ease from your iOS app
-<img src="https://raw.githubusercontent.com/ProxymanApp/atlantis/main/images/cover.png" alt="Atlantis: Debug iOS with ease" width="70%" height="auto"/>
+### Proxyman for iOS
+- Screenshot: https://proxyman.io/ios
+- AppStore: https://apps.apple.com/us/app/proxyman/id1551292695
 
+### Atlantis - Inspect Network traffic with ease from your iOS app
 - ✅ **Automatically** intercept all HTTP/HTTPS Traffic with ease
 - ✅ **No need to config HTTP Proxy, Install or Trust any Certificate**
 - Support iOS Physical Devices and Simulators
@@ -36,7 +38,7 @@
 - 🔎 [CodeMirror-Swift](https://github.com/ProxymanApp/CodeMirror-Swift): A lightweight wrapper of CodeMirror for macOS and iOS.
 
 ## Download
-* [Proxyman 2.19.0](https://proxyman.io/release/osx/Proxyman_latest.dmg)
+* [Proxyman 2.20.0](https://proxyman.io/release/osx/Proxyman_latest.dmg)
 * [Build History](https://github.com/ProxymanApp/Proxyman/releases)
 
 ```
