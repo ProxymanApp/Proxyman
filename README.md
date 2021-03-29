@@ -15,6 +15,7 @@
 * ✅ Intercept HTTP/HTTPS (SSL) requests
 * ✅ Modern and intuitive UI
 * ✅ Exclusively built for macOS
+* 🔍 Multiple filters
 * Support iOS simulator and iOS and Android devices
 * WebSocket debugging
 * Basic debugging tools: Compose, Repeat, Wildcard/Regex Filter,...
@@ -38,7 +39,7 @@
 - 🔎 [CodeMirror-Swift](https://github.com/ProxymanApp/CodeMirror-Swift): A lightweight wrapper of CodeMirror for macOS and iOS.
 
 ## Download
-* [Proxyman 2.21.1](https://proxyman.io/release/osx/Proxyman_latest.dmg)
+* [Proxyman 2.22.0](https://proxyman.io/release/osx/Proxyman_latest.dmg)
 * [Build History](https://github.com/ProxymanApp/Proxyman/releases)
 
 ```
