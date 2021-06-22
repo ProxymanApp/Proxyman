@@ -21,9 +21,9 @@
 * Basic debugging tools: Compose, Repeat, Wildcard/Regex Filter,...
 * Advanced Tools: Map Local, Map Remote, Breakpoint, Backlist, External Proxying, No Caching, Protobuf, Clear Cache, Custom Certificates, Scripting, Network Conditions...
 * Customizable workspace
-* New feature, new improvement build every two weeks
+* New feature, new improvement build every three weeks
 * 100% free all essential features
-* macOS 10.12+
+* macOS 10.13+
 
 ### Proxyman for iOS
 - Screenshot: https://proxyman.io/ios
@@ -39,7 +39,7 @@
 - 🔎 [CodeMirror-Swift](https://github.com/ProxymanApp/CodeMirror-Swift): A lightweight wrapper of CodeMirror for macOS and iOS.
 
 ## Download
-* [Proxyman 2.27.0](https://proxyman.io/release/osx/Proxyman_latest.dmg)
+* [Proxyman 2.28.0](https://proxyman.io/release/osx/Proxyman_latest.dmg)
 * [Build History](https://github.com/ProxymanApp/Proxyman/releases)
 
 ```
