@@ -8,6 +8,9 @@
 
 <img src="https://raw.githubusercontent.com/ProxymanApp/Proxyman/master/screenshots/proxyman_dashboard.png" alt="Proxyman Dashboard" width="100%" height="auto"/>
 
+![Proxyman with Light theme](https://user-images.githubusercontent.com/5878421/126039543-bc4aa169-45bf-47e4-a85c-5431d08f1cf3.png)
+
+
 ## Features
 
 * ✅ 100% written by Apple SwiftNIO for high-performance
@@ -39,7 +42,7 @@
 - 🔎 [CodeMirror-Swift](https://github.com/ProxymanApp/CodeMirror-Swift): A lightweight wrapper of CodeMirror for macOS and iOS.
 
 ## Download
-* [Proxyman 2.29.0](https://proxyman.io/release/osx/Proxyman_latest.dmg)
+* [Proxyman 2.30.0](https://proxyman.io/release/osx/Proxyman_latest.dmg)
 * [Build History](https://github.com/ProxymanApp/Proxyman/releases)
 
 ```
