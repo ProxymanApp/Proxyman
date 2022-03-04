@@ -1,32 +1,35 @@
 
-<img src="https://raw.githubusercontent.com/ProxymanApp/Proxyman/master/screenshots/proxyman_logo.png" alt="Proxyman screenshot" width="50%" height="auto"/>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/5878421/156718139-573a6ac5-8365-49eb-a7b8-39c4e8a0d39a.png" height="256">
+</p>
 
-#### Modern and Delightful HTTP Debugging Proxy for macOS, iOS and Android ⚡️ • 🌎 https://proxyman.io
+<p align="center">
+  <a aria-label="Follow Proxyman on Twitter" href="https://twitter.com/proxyman_app">
+    <img alt="" src="https://img.shields.io/badge/Follow-%40proxyman__app-black.svg?style=for-the-badge&logo=Twitter">
+  </a>
+  <a aria-label="Join the community on Gitter" href="https://gitter.im/Proxyman-app/community">
+    <img alt="" src="https://img.shields.io/badge/Join-the%20community-black.svg?style=for-the-badge&logo=Gitter">
+  </a>
+</p>
 
-[![Twitter](https://img.shields.io/twitter/url?label=%40proxyman_app&style=social&url=https%3A%2F%2Ftwitter.com%2Fproxyman_app)](https://twitter.com/proxyman_app)
-[![Join the chat at https://gitter.im/Proxyman-app/community](https://badges.gitter.im/Proxyman-app/community.svg)](https://gitter.im/Proxyman-app/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+<p align="center">
+  <h2 align="center">Modern and Delightful HTTP Debugging Proxy for macOS, iOS and Android ⚡️</h2>
+</p>
 
 <img src="https://raw.githubusercontent.com/ProxymanApp/Proxyman/master/screenshots/proxyman_dashboard.png" alt="Proxyman Dashboard" width="100%" height="auto"/>
 
 ![Proxyman with Light theme](https://user-images.githubusercontent.com/5878421/126039543-bc4aa169-45bf-47e4-a85c-5431d08f1cf3.png)
 
-
 ## Features
-
 * ✅ 100% written by Apple SwiftNIO for high-performance
-* ✅ Fully support Apple Silicon Chip, Big Sur and Monterey
-* ✅ Intercept HTTP/HTTPS (SSL) requests
+* ✅ Fully support Apple M1, M1 Pro/Mac Chip. Support macOS Big Sur and Monterey.
+* ✅ Intercept HTTP/HTTPS requests/response and WebSocket.
 * ✅ Modern and intuitive UI
-* ✅ Exclusively built for macOS
 * 🔍 Multiple filters
-* Support iOS simulator and iOS and Android devices
-* WebSocket debugging
+* Support iOS simulator and iOS and Android devices.
 * Basic debugging tools: Compose, Repeat, Wildcard/Regex Filter,...
 * Advanced Tools: Map Local, Map Remote, Breakpoint, Backlist, External Proxying, No Caching, Protobuf, Clear Cache, Custom Certificates, Scripting, Network Conditions...
-* Customizable workspace
-* New feature, new improvement build every three weeks
-* 100% free all essential features
-* macOS 10.13+
+* macOS 10.14+
 
 ### Proxyman for iOS
 - Screenshot: https://proxyman.io/ios
