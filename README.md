@@ -28,7 +28,7 @@
 * 🔍 Multiple filters
 * Support iOS simulator and iOS and Android devices.
 * Basic debugging tools: Compose, Repeat, Wildcard/Regex Filter,...
-* Advanced Tools: Map Local, Map Remote, Breakpoint, Backlist, External Proxying, No Caching, Protobuf, Clear Cache, Custom Certificates, Scripting, Network Conditions...
+* Advanced Tools: Map Local, Map Remote, Breakpoint, Backlist, External Proxying, No Caching, Protobuf, Clear Cache, Custom Certificates, Scripting, Network Conditions, Reverse Proxy, Diff, etc
 * macOS 10.14+
 
 ### Proxyman for iOS
@@ -45,7 +45,7 @@
 - 🔎 [CodeMirror-Swift](https://github.com/ProxymanApp/CodeMirror-Swift): A lightweight wrapper of CodeMirror for macOS and iOS.
 
 ## Download
-* [Proxyman 3.2.0](https://proxyman.io/release/osx/Proxyman_latest.dmg)
+* [Proxyman 3.3.0](https://proxyman.io/release/osx/Proxyman_latest.dmg)
 * [Build History](https://github.com/ProxymanApp/Proxyman/releases)
 
 ```
