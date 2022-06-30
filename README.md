@@ -22,7 +22,7 @@
 
 ## Features
 * ✅ 100% written by Apple SwiftNIO for high-performance
-* ✅ Fully support Apple M1, M1 Pro/Mac Chip. Support macOS Big Sur and Monterey.
+* ✅ Fully support Apple M1, M1 Pro/Max Chip. Support macOS Big Sur and Monterey.
 * ✅ Intercept HTTP/HTTPS requests/response and WebSocket.
 * ✅ Modern and intuitive UI
 * 🔍 Multiple filters
