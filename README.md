@@ -13,44 +13,44 @@
 </p>
 
 <p align="center">
-  <h2 align="center">Modern and Delightful HTTP Debugging Proxy for macOS, iOS and Android ⚡️</h2>
+  <h2 align="center">Modern. Native. Web Debugging Proxy for macOS. Support iOS and Android ⚡️</h2>
 </p>
 
 <img src="https://raw.githubusercontent.com/ProxymanApp/Proxyman/master/screenshots/proxyman_dashboard.png" alt="Proxyman Dashboard" width="100%" height="auto"/>
 
-![Proxyman with Light theme](https://user-images.githubusercontent.com/5878421/126039543-bc4aa169-45bf-47e4-a85c-5431d08f1cf3.png)
+<img src="https://raw.githubusercontent.com/ProxymanApp/Proxyman/master/screenshots/proxyman_on_light_theme.jpg" alt="Proxyman with Light Theme v2" width="100%" height="auto"/>
 
 ## Features
-* ✅ 100% written by Apple SwiftNIO for high-performance
-* ✅ Fully support Apple M1, M1 Pro/Max Chip. Support macOS Big Sur and Monterey.
-* ✅ Intercept HTTP/HTTPS requests/response and WebSocket.
+* 💻 Native macOS app. Written by Swift, Objective-C. Powered by Apple SwiftNIO for the high-performance network application.
+* 🍎 Fully support Apple Chip (e.g M1, M2, M1 Pro/Max). 
+* 💫 Built for macOS Monterey & Ventura.
+* ✅ Hassle-free Intercept HTTP/HTTPS requests/response and WebSocket from Web Browsers, iOS, and Android devices.
 * ✅ Modern and intuitive UI
 * 🔍 Multiple filters
-* Support iOS simulator and iOS and Android devices.
-* Basic debugging tools: Compose, Repeat, Wildcard/Regex Filter,...
-* Advanced Tools: Map Local, Map Remote, Breakpoint, Backlist, External Proxying, No Caching, Protobuf, Clear Cache, Custom Certificates, Scripting, Network Conditions, Reverse Proxy, Diff, etc
+* Comprehensive Guideline to set up with iOS simulator and iOS and Android devices.
+* Basic debugging tools: Compose, Repeat, Wildcard/Regex Filter, Multiple Filters, Customize Columns, Toolbar...
+* Advanced Tools: Breakpoint, Map Local, Map Remote, Backlist, External Proxying, No Caching, Protobuf, Clear Cache, Custom Certificates, Scripting, Network Conditions, Reverse Proxy, Diff, etc
 * macOS 10.14+
 
-### Proxyman for iOS
-- Screenshot: https://proxyman.io/ios
-- AppStore: https://apps.apple.com/us/app/proxyman/id1551292695
-
-### Atlantis - Inspect Network traffic with ease from your iOS app
-- ✅ **Automatically** intercept all HTTP/HTTPS Traffic with ease
-- ✅ **No need to config HTTP Proxy, Install or Trust any Certificate**
-- Support iOS Physical Devices and Simulators
-- GitHub: https://github.com/ProxymanApp/atlantis
-
-## OSS Components
-- 🔎 [CodeMirror-Swift](https://github.com/ProxymanApp/CodeMirror-Swift): A lightweight wrapper of CodeMirror for macOS and iOS.
-
 ## Download
-* [Proxyman 3.8.0](https://proxyman.io/release/osx/Proxyman_latest.dmg)
-* [Build History](https://github.com/ProxymanApp/Proxyman/releases)
+* [Proxyman 3.9.0](https://proxyman.io/release/osx/Proxyman_latest.dmg)
+* [Full Changelogs](https://github.com/ProxymanApp/Proxyman/releases)
 
 ```
 $ brew install --cask proxyman
 ```
+
+### Proxyman for iOS
+- 🍎 Native iOS app. 
+- ⚡️ Directly Capture HTTPS Traffic from your iOS device. No Macbook needed.
+- Screenshot: https://proxyman.io/ios
+- Download from App Store: https://apps.apple.com/us/app/proxyman/id1551292695
+
+### Atlantis framework - Inspect Network traffic with ease from your iOS app
+- ✅ **Automatically** intercept all HTTP/HTTPS Traffic from iOS devices
+- ✅ **No need to config HTTP Proxy, Install or Trust any Certificate**
+- Support iOS, macOS, tvOS.
+- GitHub: https://github.com/ProxymanApp/atlantis
 
 ## Have a problem?
 
