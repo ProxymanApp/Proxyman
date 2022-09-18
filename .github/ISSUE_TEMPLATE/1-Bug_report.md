@@ -1,19 +1,11 @@
 ---
-name: Bug report
+name: Bug Report
 about: You're having technical issues. 🐞
 labels: 'bug'
 ---
 
 ## Description
 <!--- Description for the bug? -->
-
-## Expected Behavior
-
-<!--- What should have happened? -->
-
-## Current Behavior
-
-<!--- What went wrong? -->
 
 ## Steps to Reproduce
 
@@ -23,6 +15,14 @@ labels: 'bug'
 2.
 3.
 4.
+
+## Current Behavior
+
+<!--- What went wrong? -->
+
+## Expected Behavior
+
+<!--- What should have happened? -->
 
 ## Environment
 

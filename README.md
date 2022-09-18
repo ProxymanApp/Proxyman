@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/5878421/156718139-573a6ac5-8365-49eb-a7b8-39c4e8a0d39a.png">
+  <img src="https://raw.githubusercontent.com/ProxymanApp/Proxyman/master/screenshots/proxyman_logo_v2.png" alt="Proxyman. Web debugging Proxy" width="100%" height="auto"/>
 </p>
 
 <p align="center">
@@ -33,7 +33,7 @@
 * macOS 10.14+
 
 ## Download
-* [Proxyman 3.9.0](https://proxyman.io/release/osx/Proxyman_latest.dmg)
+* [Proxyman 3.10.0](https://proxyman.io/release/osx/Proxyman_latest.dmg)
 * [Full Changelogs](https://github.com/ProxymanApp/Proxyman/releases)
 
 ```
