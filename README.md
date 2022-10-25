@@ -30,10 +30,10 @@
 * Comprehensive Guideline to set up with iOS simulator and iOS and Android devices.
 * Basic debugging tools: Compose, Repeat, Wildcard/Regex Filter, Multiple Filters, Customize Columns, Toolbar...
 * Advanced Tools: Breakpoint, Map Local, Map Remote, Backlist, External Proxying, No Caching, Protobuf, Clear Cache, Custom Certificates, Scripting, Network Conditions, Reverse Proxy, Diff, etc
-* macOS 10.15+
+* macOS 10.14+
 
 ## Download
-* [Proxyman 3.11.0](https://proxyman.io/release/osx/Proxyman_latest.dmg)
+* [Proxyman 3.12.0](https://proxyman.io/release/osx/Proxyman_latest.dmg)
 * [Full Changelogs](https://github.com/ProxymanApp/Proxyman/releases)
 
 ```
