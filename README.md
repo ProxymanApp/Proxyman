@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ProxymanApp/Proxyman/master/screenshots/proxyman_logo_v2.png" alt="Proxyman. Web debugging Proxy" width="100%" height="auto"/>
+  <img src="https://raw.githubusercontent.com/ProxymanApp/Proxyman/master/screenshots/proxyman_logo_v3.jpg" alt="Proxyman. Web debugging Proxy" width="100%" height="auto"/>
 </p>
 
 <p align="center">
