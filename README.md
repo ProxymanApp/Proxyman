@@ -34,7 +34,7 @@
 * macOS 10.15+
 
 ## Download
-* [Proxyman 4.7.0](https://proxyman.io/release/osx/Proxyman_latest.dmg)
+* [Proxyman 4.7.1](https://proxyman.io/release/osx/Proxyman_latest.dmg)
 * [Full Changelogs](https://github.com/ProxymanApp/Proxyman/releases)
 
 ```
