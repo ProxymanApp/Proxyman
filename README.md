@@ -16,7 +16,7 @@
   <h2 align="center">Modern. Native. Web Debugging Proxy for macOS. Support iOS and Android ⚡️</h2>
 </p>
 
-<img src="https://raw.githubusercontent.com/ProxymanApp/Proxyman/master/screenshots/proxyman_dashboard.png" alt="Proxyman Dashboard" width="100%" height="auto"/>
+<img src="https://raw.githubusercontent.com/ProxymanApp/Proxyman/master/screenshots/proxyman_dashboard_4.8.1.jpg" alt="Proxyman Dashboard" width="100%" height="auto"/>
 
 <img src="https://raw.githubusercontent.com/ProxymanApp/Proxyman/master/screenshots/proxyman_on_light_theme.jpg" alt="Proxyman with Light Theme v2" width="100%" height="auto"/>
 
