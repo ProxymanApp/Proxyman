@@ -29,12 +29,12 @@
 * 🔍 Multiple filters
 * Comprehensive Guidelines to set up with iOS simulator and iOS and Android devices.
 * Basic debugging tools: Compose, Repeat, Wildcard/Regex Filter, Multiple Filters, Customize Columns, Toolbar...
-* Advanced Tools: Breakpoint, Map Local, Map Remote, Backlist, External Proxying, No Caching, Protobuf, Clear Cache, Custom Certificates, Scripting, Network Conditions, Reverse Proxy, Diff, Access Control, etc
+* Advanced Tools: Breakpoint, Map Local, Map Remote, Backlist, External Proxying, No Caching, Protobuf, Clear Cache, Custom Certificates, Scripting, Network Conditions, Reverse Proxy, Diff, Access Control, DNS Spoofing etc
 * Automatic Setup for Backend Development: Auto capture HTTP(s) traffic from NodeJS, Ruby, and Python.
 * macOS 10.15+
 
 ## Download
-* [Proxyman 4.8.1](https://proxyman.io/release/osx/Proxyman_latest.dmg)
+* [Proxyman 4.8.2](https://proxyman.io/release/osx/Proxyman_latest.dmg)
 * [Full Changelogs](https://github.com/ProxymanApp/Proxyman/releases)
 
 ```
