@@ -29,12 +29,12 @@
 * 🔍 Multiple filters
 * Comprehensive Guidelines to set up with iOS simulator and iOS and Android devices.
 * Basic debugging tools: Compose, Repeat, Wildcard/Regex Filter, Multiple Filters, Customize Columns, Toolbar...
-* Advanced Tools: Breakpoint, Map Local, Map Remote, Backlist, External Proxying, No Caching, Protobuf, Clear Cache, Custom Certificates, Scripting, Network Conditions, Reverse Proxy, Diff, Access Control, DNS Spoofing etc
+* Advanced Tools: Breakpoint, Map Local, Map Remote, Backlist, External Proxying, No Caching, Protobuf, Clear Cache, Custom Certificates, Scripting, Network Conditions, Reverse Proxy, Diff, Access Control, DNS Spoofing, etc
 * Automatic Setup for Backend Development: Auto capture HTTP(s) traffic from NodeJS, Ruby, and Python.
 * macOS 10.15+
 
 ## Download
-* [Proxyman 4.9.0](https://proxyman.io/release/osx/Proxyman_latest.dmg)
+* [Proxyman 4.9.1](https://proxyman.io/release/osx/Proxyman_latest.dmg)
 * [Full Changelogs](https://github.com/ProxymanApp/Proxyman/releases)
 
 ```
@@ -44,14 +44,9 @@ $ brew install --cask proxyman
 ### Proxyman for iOS
 - 🍎 Native iOS app. 
 - ⚡️ Directly Capture HTTPS Traffic from your iOS device. No Macbook is needed.
+- ✅ Block List, Map Local and Breakpoint are ready
 - Screenshot: https://proxyman.io/ios
 - Download from App Store: https://apps.apple.com/us/app/proxyman/id1551292695
-
-### Atlantis framework - Inspect Network traffic with ease from your iOS app
-- ✅ **Automatically** intercept all HTTP/HTTPS Traffic from iOS devices
-- ✅ **No need to config HTTP Proxy, Install or Trust any Certificate**
-- Support iOS, macOS, and tvOS.
-- GitHub: https://github.com/ProxymanApp/atlantis
 
 ## Have a problem?
 
