@@ -34,7 +34,7 @@
 * macOS 10.15+
 
 ## Download
-* [Proxyman 4.9.1](https://proxyman.io/release/osx/Proxyman_latest.dmg)
+* [Proxyman 4.10.0](https://proxyman.io/release/osx/Proxyman_latest.dmg)
 * [Full Changelogs](https://github.com/ProxymanApp/Proxyman/releases)
 
 ```
@@ -44,7 +44,7 @@ $ brew install --cask proxyman
 ### Proxyman for iOS
 - 🍎 Native iOS app. 
 - ⚡️ Directly Capture HTTPS Traffic from your iOS device. No Macbook is needed.
-- ✅ Block List, Map Local and Breakpoint are ready
+- ✅ Block List, Map Local, and Breakpoint are ready
 - Screenshot: https://proxyman.io/ios
 - Download from App Store: https://apps.apple.com/us/app/proxyman/id1551292695
 
