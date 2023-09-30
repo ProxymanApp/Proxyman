@@ -23,7 +23,7 @@
 ## Features
 * 💻 Native macOS app. Written by Swift, Objective-C. Powered by Apple SwiftNIO for the high-performance network application.
 * 🍎 Fully support Apple Chip (e.g M1, M2, M1 Pro/Max). 
-* 💫 Built for macOS Monterey & Ventura.
+* 💫 Built for macOS Ventura & Sonoma.
 * ✅ Hassle-free Intercept HTTP/HTTPS requests/response and WebSocket from Web Browsers, iOS, and Android devices.
 * ✅ Modern and intuitive UI
 * 🔍 Multiple filters
@@ -34,7 +34,7 @@
 * macOS 10.15+
 
 ## Download
-* [Proxyman 4.11.0](https://proxyman.io/release/osx/Proxyman_latest.dmg)
+* [Proxyman 4.12.0](https://proxyman.io/release/osx/Proxyman_latest.dmg)
 * [Full Changelogs](https://github.com/ProxymanApp/Proxyman/releases)
 
 ```
