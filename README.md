@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <h2 align="center">Modern. Native. Web Debugging Proxy for macOS. Support iOS and Android ⚡️</h2>
+  <h2 align="center">Modern. Native. Web Debugging Proxy for macOS. Supports iOS and Android ⚡️</h2>
 </p>
 
 <img src="https://raw.githubusercontent.com/ProxymanApp/Proxyman/master/screenshots/proxyman_dashboard_4.8.1.jpg" alt="Proxyman Dashboard" width="100%" height="auto"/>
@@ -22,7 +22,7 @@
 
 ## Features
 * 💻 Native macOS app. Written by Swift, Objective-C. Powered by Apple SwiftNIO for the high-performance network application.
-* 🍎 Fully support Apple Chip (e.g M1, M2, M3). 
+* 🍎 Fully supports Apple Chip (e.g M1, M2, M3). 
 * 💫 Built for macOS Ventura & Sonoma.
 * ✅ Hassle-free Intercept HTTP/HTTPS requests/response and WebSocket from Web Browsers, iOS, and Android devices.
 * ✅ Modern and intuitive UI
@@ -50,7 +50,7 @@ $ brew install --cask proxyman
 
 ## Have a problem?
 
-- Open a Github ticket
+- Open a GitHub ticket
 - Technical issues on [![Gitter](https://badges.gitter.im/Proxyman-app/community.svg)](https://gitter.im/Proxyman-app/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 - nghia@proxyman.io & support@proxyman.io
 
