@@ -34,7 +34,7 @@
 * macOS 11+
 
 ## Download
-* [Proxyman 5.8.0](https://proxyman.io/release/osx/Proxyman_latest.dmg)
+* [Proxyman 5.9.0](https://proxyman.io/release/osx/Proxyman_latest.dmg)
 * [Full Changelogs](https://github.com/ProxymanApp/Proxyman/releases)
 
 ```
@@ -51,7 +51,7 @@ $ brew install --cask proxyman
 ## Have a problem?
 
 - Open a GitHub ticket
-- Technical issues on [![Gitter](https://badges.gitter.im/Proxyman-app/community.svg)](https://gitter.im/Proxyman-app/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+- 👉 Technical issues on [Proxyman Discord](https://discord.gg/D5bwdZTG)
 - nghia@proxyman.io & support@proxyman.io
 
 ---
