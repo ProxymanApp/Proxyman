@@ -38,7 +38,7 @@
 * [Full Changelogs](https://github.com/ProxymanApp/Proxyman/releases)
 
 ```
-$ brew install --cask proxyman
+brew install --cask proxyman
 ```
 
 ### Proxyman for iOS
