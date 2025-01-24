@@ -34,7 +34,7 @@
 * macOS 11+
 
 ## Download
-* [Proxyman 5.12.2](https://proxyman.io/release/osx/Proxyman_latest.dmg)
+* [Proxyman 5.14.0](https://proxyman.com/release/osx/Proxyman_latest.dmg)
 * [Full Changelogs](https://github.com/ProxymanApp/Proxyman/releases)
 
 ```
@@ -45,14 +45,14 @@ brew install --cask proxyman
 - 🍎 Native iOS app. 
 - ⚡️ Directly Capture HTTPS Traffic from your iOS device. No Macbook is needed.
 - ✅ Block List, Map Local, and Breakpoint are ready
-- Screenshot: https://proxyman.io/ios
+- Screenshot: https://proxyman.com/ios
 - Download from App Store: https://apps.apple.com/us/app/proxyman/id1551292695
 
 ## Have a problem?
 
 - Open a GitHub ticket
 - 👉 Technical issues on [Proxyman Discord](https://discord.gg/D5bwdZTG)
-- nghia@proxyman.io & support@proxyman.io
+- nghia@proxyman.com & support@proxyman.com
 
 ---
 
