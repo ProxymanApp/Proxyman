@@ -34,7 +34,7 @@
 * macOS 11+
 
 ## Download
-* [Proxyman 5.14.0](https://proxyman.com/release/osx/Proxyman_latest.dmg)
+* [Proxyman 5.15.0](https://proxyman.com/release/osx/Proxyman_latest.dmg)
 * [Full Changelogs](https://github.com/ProxymanApp/Proxyman/releases)
 
 ```
