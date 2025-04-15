@@ -34,7 +34,7 @@
 * macOS 11+
 
 ## Download
-* [Proxyman 5.17.0](https://proxyman.com/release/osx/Proxyman_latest.dmg)
+* [Proxyman 5.18.0](https://proxyman.com/release/osx/Proxyman_latest.dmg)
 * [Full Changelogs](https://github.com/ProxymanApp/Proxyman/releases)
 
 ```
@@ -56,7 +56,7 @@ brew install --cask proxyman
 
 ---
 
-Proxyman is developed by a small engineering team, but we're dedicated to shipping Proxyman that tailors for each platform (macOS, iOS, and Windows). It facilitates how we debug apps and brings all developers joy and pleasure.
+Proxyman is developed by a small engineering team, but we're dedicated to shipping Proxyman that tailored for each platform (macOS, iOS, and Windows). It facilitates how we debug apps and brings all developers joy and pleasure.
 
 We're genuinely happy if you purchase a license to support the development ❤️
 
