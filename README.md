@@ -21,10 +21,10 @@
 <img src="https://raw.githubusercontent.com/ProxymanApp/Proxyman/master/screenshots/proxyman_on_light_theme.jpg" alt="Proxyman with Light Theme v2" width="100%" height="auto"/>
 
 ## Features
-* 💻 Native macOS app. Written by Swift, Objective-C. Powered by Apple SwiftNIO for the high-performance network application.
+* 💻 Native macOS app. Written by Swift, Objective-C. Powered by Apple SwiftNIO for high-performance network applications.
 * 🍎 Fully supports Apple Chip (e.g M1, M2, M3, M4). 
 * 💫 Built for macOS Ventura & Sonoma.
-* ✅ Hassle-free Intercept HTTP/HTTPS requests/response and WebSocket from Web Browsers, iOS, and Android devices.
+* ✅ Hassle-free Intercept HTTP/HTTPS requests/responses and WebSocket from Web Browsers, iOS, and Android devices.
 * ✅ Modern and intuitive UI
 * 🔍 Multiple filters
 * Comprehensive Guidelines to set up with iOS simulator and iOS and Android devices.
@@ -34,7 +34,7 @@
 * macOS 11+
 
 ## Download
-* [Proxyman 5.20.0](https://proxyman.com/release/osx/Proxyman_latest.dmg)
+* [Proxyman 5.22.0](https://proxyman.com/release/osx/Proxyman_latest.dmg)
 * [Full Changelogs](https://github.com/ProxymanApp/Proxyman/releases)
 
 ```
