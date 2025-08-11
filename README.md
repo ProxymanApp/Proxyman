@@ -43,7 +43,7 @@ brew install --cask proxyman
 
 ### Proxyman for iOS
 - 🍎 Native iOS app. 
-- ⚡️ Directly Capture HTTPS Traffic from your iOS device. No Macbook is needed.
+- ⚡️ Directly capture HTTPS Traffic from your iOS device. No MacBook is needed.
 - ✅ Block List, Map Local, and Breakpoint are ready
 - Screenshot: https://proxyman.com/ios
 - Download from App Store: https://apps.apple.com/us/app/proxyman/id1551292695
@@ -51,7 +51,7 @@ brew install --cask proxyman
 ## Have a problem?
 
 - Open a GitHub ticket
-- 👉 Technical issues on [Proxyman Discord](https://discord.gg/D5bwdZTG)
+- 👉 Technical issues on [Proxyman Discord](https://discord.gg/tjWEq6Da42)
 - nghia@proxyman.com & support@proxyman.com
 
 ---
