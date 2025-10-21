@@ -7,9 +7,6 @@
   <a aria-label="Follow Proxyman on Twitter" href="https://twitter.com/proxyman_app">
     <img alt="" src="https://img.shields.io/badge/Follow-%40proxyman__app-black.svg?style=for-the-badge&logo=Twitter">
   </a>
-  <a aria-label="Join the community on Gitter" href="https://gitter.im/Proxyman-app/community">
-    <img alt="" src="https://img.shields.io/badge/Join-the%20community-black.svg?style=for-the-badge&logo=Gitter">
-  </a>
 </p>
 
 <p align="center">
@@ -23,10 +20,11 @@
 ## Features
 * 💻 Native macOS app. Written by Swift, Objective-C. Powered by Apple SwiftNIO for high-performance network applications.
 * 🍎 Fully supports Apple Chip (e.g M1, M2, M3, M4). 
-* 💫 Built for macOS Ventura & Sonoma.
+* 💫 Built for macOS UI 26 Tahoe
 * ✅ Hassle-free Intercept HTTP/HTTPS requests/responses and WebSocket from Web Browsers, iOS, and Android devices.
 * ✅ Modern and intuitive UI
 * 🔍 Multiple filters
+* Command Palette — Quickly search and access requests, responses, scripts, and more. Work faster without leaving your keyboard!
 * Comprehensive Guidelines to set up with iOS simulator and iOS and Android devices.
 * Basic debugging tools: Compose, Repeat, Wildcard/Regex Filter, Multiple Filters, Customize Columns, Toolbar...
 * Advanced Tools: Breakpoint, Map Local, Map Remote, Backlist, External Proxying, No Caching, Protobuf, Clear Cache, Custom Certificates, Scripting, Network Conditions, Reverse Proxy, Diff, Access Control, DNS Spoofing, etc
@@ -34,7 +32,7 @@
 * macOS 11+
 
 ## Download
-* [Proxyman 5.25.0](https://proxyman.com/release/osx/Proxyman_latest.dmg)
+* [Proxyman 6.0.0](https://proxyman.com/release/osx/Proxyman_latest.dmg)
 * [Full Changelogs](https://github.com/ProxymanApp/Proxyman/releases)
 
 ```
