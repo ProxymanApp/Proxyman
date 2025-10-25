@@ -32,7 +32,7 @@
 * macOS 11+
 
 ## Download
-* [Proxyman 6.0.0](https://proxyman.com/release/osx/Proxyman_latest.dmg)
+* [Proxyman 6.0.2](https://proxyman.com/release/osx/Proxyman_latest.dmg)
 * [Full Changelogs](https://github.com/ProxymanApp/Proxyman/releases)
 
 ```
