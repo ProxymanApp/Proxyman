@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ProxymanApp/Proxyman/master/screenshots/proxyman_logo_v3.jpg" alt="Proxyman. Web debugging Proxy" width="100%" height="auto"/>
+  <img src="/screenshots/banner_v2.png" alt="Proxyman: Debug HTTP Like a Pro banner" width="100%" height="auto"/>
 </p>
 
 <p align="center">
@@ -9,19 +9,13 @@
   </a>
 </p>
 
-<p align="center">
-  <h2 align="center">Modern. Native. Web Debugging Proxy for macOS. Supports iOS and Android ⚡️</h2>
-</p>
-
-<img src="https://raw.githubusercontent.com/ProxymanApp/Proxyman/master/screenshots/proxyman_dashboard_4.8.1.jpg" alt="Proxyman Dashboard" width="100%" height="auto"/>
-
-<img src="https://raw.githubusercontent.com/ProxymanApp/Proxyman/master/screenshots/proxyman_on_light_theme.jpg" alt="Proxyman with Light Theme v2" width="100%" height="auto"/>
+<img src="/screenshots/new_dashboard_macOS_26.jpg" alt="Proxyman Dashboard UI for macOS 26 Tahoe" width="100%" height="auto"/>
 
 ## Features
-* 💻 Native macOS app. Written by Swift, Objective-C. Powered by Apple SwiftNIO for high-performance network applications.
-* 🍎 Fully supports Apple Chip (e.g M1, M2, M3, M4). 
-* 💫 Built for macOS UI 26 Tahoe
-* ✅ Hassle-free Intercept HTTP/HTTPS requests/responses and WebSocket from Web Browsers, iOS, and Android devices.
+* 💻 Native macOS app. Written by Swift. Powered by Apple SwiftNIO for high-performance network applications.
+* 🍎 Fully supports Apple Chip (e.g M1, M2, M3, M4, etc). 
+* 💫 Built for macOS 26 Tahoe
+* ✅ Capture HTTP/HTTPS requests/responses and WebSocket from Web Browsers, iOS, and Android devices with a few clicks.
 * ✅ Modern and intuitive UI
 * 🔍 Multiple filters
 * Command Palette — Quickly search and access requests, responses, scripts, and more. Work faster without leaving your keyboard!
@@ -29,10 +23,10 @@
 * Basic debugging tools: Compose, Repeat, Wildcard/Regex Filter, Multiple Filters, Customize Columns, Toolbar...
 * Advanced Tools: Breakpoint, Map Local, Map Remote, Backlist, External Proxying, No Caching, Protobuf, Clear Cache, Custom Certificates, Scripting, Network Conditions, Reverse Proxy, Diff, Access Control, DNS Spoofing, etc
 * Automatic Setup for Backend Development: Auto capture HTTP(s) traffic from NodeJS, Ruby, and Python.
-* macOS 11+
+* Supported macOS 12+ or later
 
 ## Download
-* [Proxyman 6.0.2](https://proxyman.com/release/osx/Proxyman_latest.dmg)
+* [Proxyman 6.1.0](https://proxyman.com/release/osx/Proxyman_latest.dmg)
 * [Full Changelogs](https://github.com/ProxymanApp/Proxyman/releases)
 
 ```
