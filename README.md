@@ -26,7 +26,7 @@
 * Supported macOS 12+ or later
 
 ## Download
-* [Proxyman 6.1.0](https://proxyman.com/release/osx/Proxyman_latest.dmg)
+* [Proxyman 6.2.0](https://proxyman.com/release/osx/Proxyman_latest.dmg)
 * [Full Changelogs](https://github.com/ProxymanApp/Proxyman/releases)
 
 ```
