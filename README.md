@@ -25,8 +25,13 @@
 * Automatic Setup for Backend Development: Auto capture HTTP(s) traffic from NodeJS, Ruby, and Python.
 * Supported macOS 12+ or later
 
+## Proxyman Team Workspace (Team Subscription only)
+- Sign in using **Proxyman Team Workspace**: Manage your team workspace account and active the PRO license.
+- Share Proxyman logs or HAR files with your team and review them online with role-based access control (Admin, Developers, and Public)
+- Role-based access control with secure authentication
+
 ## Download
-* [Proxyman 6.3.0](https://proxyman.com/release/osx/Proxyman_latest.dmg)
+* [Proxyman 6.4.0](https://proxyman.com/release/osx/Proxyman_latest.dmg)
 * [Full Changelogs](https://github.com/ProxymanApp/Proxyman/releases)
 
 ```
