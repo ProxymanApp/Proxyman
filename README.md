@@ -23,7 +23,7 @@
 * Basic debugging tools: Compose, Repeat, Wildcard/Regex Filter, Multiple Filters, Customize Columns, Toolbar...
 * Advanced Tools: Breakpoint, Map Local, Map Remote, Backlist, External Proxying, No Caching, Protobuf, Clear Cache, Custom Certificates, Scripting, Network Conditions, Reverse Proxy, Diff, Access Control, DNS Spoofing, etc
 * Automatic Setup for Backend Development: Auto capture HTTP(s) traffic from NodeJS, Ruby, and Python.
-* Supported macOS 12+ or later
+* Supported macOS 13+ or later
 
 ## Proxyman Team Workspace (Team Subscription only)
 - Sign in using **Proxyman Team Workspace**: Manage your team workspace account and active the PRO license.
