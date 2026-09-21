@@ -31,7 +31,7 @@
 - Role-based access control with secure authentication
 
 ## Download
-* [Proxyman 6.17.0](https://proxyman.com/release/osx/Proxyman_latest.dmg)
+* [Proxyman 26.0.0](https://proxyman.com/release/osx/Proxyman_latest.dmg)
 * [Full Changelogs](https://github.com/ProxymanApp/Proxyman/releases)
 
 ```
